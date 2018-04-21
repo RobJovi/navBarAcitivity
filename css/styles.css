@@ -1,0 +1,59 @@
+#background-img {
+    height: 450px;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../assets/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 125px 75px 25px 75px;
+    color: white;
+
+    font-size: 36px;
+    text-align: center;
+}
+
+#background-img h1{
+    font-size: 65px;
+    font-weight: 300;
+    text-align: center;
+}
+
+#background-img p{
+    font-size: 28px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.step h1{
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.step p{
+
+    text-align: justify;
+}
+
+.nav-custom{
+    overflow: hidden;
+    background-color: white;
+}
+.navbar-brand{
+    height: 60px;
+    overflow: hidden;
+}
+.navbar-brand img{
+    height: 100%;
+}
+
+.navbar-nav{
+    /* margin-right: 250px; */
+}
+
+#firstLink{
+    margin-left: auto;
+}
+
+#addMargin{
+    margin-left: auto;
+    margin-right: 100px;
+}
